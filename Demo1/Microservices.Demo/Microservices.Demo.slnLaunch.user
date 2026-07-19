@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "CustomerService.API\\CustomerService.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "InventoryService.API\\InventoryService.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "OrderService.API\\OrderService.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "PaymentService.API\\PaymentService.API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

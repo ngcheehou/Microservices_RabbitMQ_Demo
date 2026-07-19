@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "PaymentReadService.API.Controllers.PaymentReadController",
+    "Method": "GetPaymentByOrderId",
+    "RelativePath": "api/PaymentRead/GetPaymentByOrderId/{orderId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PaymentReadService.API.Controllers.PaymentReadController",
+    "Method": "GetPayments",
+    "RelativePath": "api/PaymentRead/GetPayments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

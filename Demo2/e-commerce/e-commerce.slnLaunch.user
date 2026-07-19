@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "OrderReadService.API\\OrderReadService.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "PaymentReadService.API\\PaymentReadService.API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

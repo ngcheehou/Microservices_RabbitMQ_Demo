@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Ecommerce.Messaging/Ecommerce.Messaging.csproj" />
+  <Project Path="OrderReadService.API/OrderReadService.API.csproj" />
+  <Project Path="PaymentReadService.API/PaymentReadService.API.csproj" />
+  <Project Path="Rabbit_demo/Rabbit_demo.csproj" Id="e8b9f74f-dadb-4588-ad0b-5cfdcf1e4e4d" />
+</Solution>

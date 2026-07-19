@@ -1,0 +1,13 @@
+C:\Dev\Q\Microservices_Demo\Demo2\e-commerce\Ecommerce.Messaging\bin\Debug\net10.0\Ecommerce.Messaging.deps.json
+C:\Dev\Q\Microservices_Demo\Demo2\e-commerce\Ecommerce.Messaging\bin\Debug\net10.0\Ecommerce.Messaging.dll
+C:\Dev\Q\Microservices_Demo\Demo2\e-commerce\Ecommerce.Messaging\bin\Debug\net10.0\Ecommerce.Messaging.pdb
+C:\Dev\Q\Microservices_Demo\Demo2\e-commerce\Ecommerce.Messaging\obj\Debug\net10.0\Ecommerce.Messaging.csproj.AssemblyReference.cache
+C:\Dev\Q\Microservices_Demo\Demo2\e-commerce\Ecommerce.Messaging\obj\Debug\net10.0\Ecommerce.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Q\Microservices_Demo\Demo2\e-commerce\Ecommerce.Messaging\obj\Debug\net10.0\Ecommerce.Messaging.AssemblyInfoInputs.cache
+C:\Dev\Q\Microservices_Demo\Demo2\e-commerce\Ecommerce.Messaging\obj\Debug\net10.0\Ecommerce.Messaging.AssemblyInfo.cs
+C:\Dev\Q\Microservices_Demo\Demo2\e-commerce\Ecommerce.Messaging\obj\Debug\net10.0\Ecommerce.Messaging.csproj.CoreCompileInputs.cache
+C:\Dev\Q\Microservices_Demo\Demo2\e-commerce\Ecommerce.Messaging\obj\Debug\net10.0\Ecommerce.Messaging.dll
+C:\Dev\Q\Microservices_Demo\Demo2\e-commerce\Ecommerce.Messaging\obj\Debug\net10.0\refint\Ecommerce.Messaging.dll
+C:\Dev\Q\Microservices_Demo\Demo2\e-commerce\Ecommerce.Messaging\obj\Debug\net10.0\Ecommerce.Messaging.pdb
+C:\Dev\Q\Microservices_Demo\Demo2\e-commerce\Ecommerce.Messaging\obj\Debug\net10.0\ref\Ecommerce.Messaging.dll
+C:\Dev\Q\Microservices_Demo\Demo2\e-commerce\Ecommerce.Messaging\obj\Debug\net10.0\Ecommerce.Messaging.sourcelink.json

@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "OrderReadService.API.Controllers.OrderReadController",
+    "Method": "GetOrderById",
+    "RelativePath": "api/OrderRead/GetOrderById/{orderId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OrderReadService.API.Controllers.OrderReadController",
+    "Method": "GetOrders",
+    "RelativePath": "api/OrderRead/GetOrders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
